@@ -22,9 +22,11 @@ I am a Business Analyst and Data Enthusiast passionate about turning data into a
 - **Key File:** `03-MMIT-Curriculum-SQL/curriculum_analysis.sql`
 
 ### 4. 📑 System Analysis & Financial Integration
-**Tools:** System Analysis (SRS), Agile, Accounting
+**Tools:** Software Requirements Specification,Figma(Prototype), Agile
 - Developed a full Software Requirements Specification (SRS) for a financial accounting mobile app.
 - **Key File:** `04-System-Analysis-Finance/srs_document.pdf`
+- link Figma:https://www.figma.com/proto/DMt4KxjT3zxKKpUKn7CoB8/Untitled?node-id=2-76&t=Yv9bHSuq20EGY1sk-1&fbclid=IwY2xjawP-ODFleHRuA2FlbQIxMABicmlkETJ6dVZlMHA4STd3SHhZSDNYc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHtnkc0s8nSY4ZlYnKzpneyhKZYrI21G8Xe1tdhpLYNMU54WHuYGqvnASVNNE_aem_SHM1z9CZfLxdmWdr9KAYKg&starting-point-node-id=2%3A76
 
 ---
-📫 **Contact Me:** | [ลิงก์ LinkedIn ถ้ามี]
+📫 **Contact Me:** Email:panupong.tumtong@gmail.com| linkedin:linkedin.com/in/panupong-tamthong-953222239
+
