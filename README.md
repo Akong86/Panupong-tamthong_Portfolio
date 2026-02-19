@@ -27,28 +27,39 @@ I am a Business Analyst and Data Enthusiast passionate about turning data into a
 - **Key File:** `04-System-Analysis-Finance/srs_document.pdf`
 - link Figma:https://www.figma.com/proto/DMt4KxjT3zxKKpUKn7CoB8/Untitled?node-id=2-76&t=Yv9bHSuq20EGY1sk-1&fbclid=IwY2xjawP-ODFleHRuA2FlbQIxMABicmlkETJ6dVZlMHA4STd3SHhZSDNYc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHtnkc0s8nSY4ZlYnKzpneyhKZYrI21G8Xe1tdhpLYNMU54WHuYGqvnASVNNE_aem_SHM1z9CZfLxdmWdr9KAYKg&starting-point-node-id=2%3A76
 
-📊 Manufacturing Efficiency & Failure Analysis
--Tools: Power BI | Data Analysis | CI Framework
+หากต้องการให้ขึ้นจุด (Bullet points) หน้าหัวข้อทุกอันใน GitHub เพื่อความสวยงามและอ่านง่าย คุณต้องใช้สัญลักษณ์ ดอกจัน (*) หรือ ขีดกลาง (-) วางไว้หน้าประโยคโดยต้อง เว้นวรรค 1 เคาะ เสมอครับ
 
--Files: [suspicious link removed] | [suspicious link removed]
+นี่คือโค้ด Markdown ที่ปรับแต่งให้มีจุดครบทุกหัวข้อและจัดระเบียบให้ดูเป็นมืออาชีพที่สุดครับ:
 
--Overview:Designed and developed a high-impact Manufacturing Dashboard to monitor and analyze a fleet of 10,000 machines, focusing on improving operational reliability and reducing downtime.
+### 5. 📊 Manufacturing Efficiency & Failure Analysis
+Tools: Power BI | Data Analysis | CI Framework 
 
--Key Achievements
+Files: [suspicious link removed] | [suspicious link removed]
 
--Failure Monitoring: Tracks a 3.39% overall failure rate across the entire fleet.
+Overview
+Designed and developed a high-impact Manufacturing Dashboard to monitor and analyze a fleet of 10,000 machines.
 
--Root Cause Identification: Utilized Correlation Analysis to pinpoint mechanical and thermal patterns. Identified "Heat Dissipation" as the primary root cause behind most breakdowns.
+Focused on improving operational reliability and reducing downtime through data-driven insights.
 
--Predictive Insights: Established critical baselines to detect potential issues before they occur:
+Key Achievements
+
+Failure Monitoring: Tracks a 3.39% overall failure rate across the entire fleet.
 
 
--Torque-Speed: Analyzed the Inverse Relationship to set the baseline for operating loads.
+Root Cause Identification: Utilized Correlation Analysis to pinpoint mechanical and thermal patterns.
 
 
--Process-Air Temp: Leveraged Linear Correlation to detect overheating outliers.
+Strategic Finding: Identified "Heat Dissipation" as the primary root cause behind most breakdowns.
 
--Continuous Improvement (CI): Proposed data-driven strategies to transition maintenance from a reactive to a proactive approach.
+Predictive Insights: Established critical baselines to detect potential issues before they occur:
+
+
+Torque-Speed: Analyzed the Inverse Relationship to set the baseline for operating loads.
+
+
+Process-Air Temp: Leveraged Linear Correlation to detect overheating outliers.
+
+Continuous Improvement (CI): Proposed data-driven strategies to transition maintenance from a reactive to a proactive approach.
 
 ---
 📫 **Contact Me:** Email:panupong.tumtong@gmail.com| linkedin:linkedin.com/in/panupong-tamthong-953222239
