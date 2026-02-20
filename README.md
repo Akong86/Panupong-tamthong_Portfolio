@@ -1,4 +1,4 @@
-<img width="742" height="709" alt="image" src="https://github.com/user-attachments/assets/c9743172-3f9a-4a7d-a1e3-89ea745c9bdc" /># Hi, I'm Panupong Tamthong 👋
+# Hi, I'm Panupong Tamthong 👋
 ### 🎓 Modern Management and Information Technology (MMIT), Chiang Mai University
 
 I am a Business Analyst and Data Enthusiast passionate about turning data into actionable business strategies. Here is a collection of my academic and personal projects.
