@@ -33,7 +33,7 @@ I am a Business Analyst and Data Enthusiast passionate about turning data into a
 - Identified "Heat Dissipation" as the primary root cause of failure through Correlation Analysis.
 - Established critical baselines (Torque-Speed & Process-Air Temp) to detect overheating outliers.
 - Proposed data-driven strategies to transition maintenance from reactive to proactive.
-- **Key File:** `05-Manufacturing-Analysis/failure_analysis_report.pdf`
+- **Key File:** `05-case study manufacturing.pdf,Dashboard CI.pbix`
 
 ---
 📫 **Contact Me:** Email:panupong.tumtong@gmail.com| linkedin:linkedin.com/in/panupong-tamthong-953222239
