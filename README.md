@@ -8,23 +8,23 @@ I am a Business Analyst and Data Enthusiast passionate about turning data into a
 ### 1. 🏞️ Chiang Mai PAO Park Market Analysis
 **Tools:** Python (Selenium), Data Cleaning, Market Research
 - Conducted sentiment analysis and market strategy for a public park using Google Maps reviews.
-- **Key File:** `01-PAO-Park-Market-Analysis/web_scraping_script.py`
+- **Key File:** `01-Project_Market Analysis & Strategy for Chiang Mai PAO Park (1)/web_scraping_script.py`
 
 ### 2. 📊 Onyx Challenge Business Case
 **Tools:** Power BI, Business Strategy, Financial Analysis
 - Analyzed business performance and proposed a "Strategic, Profitable Growth" plan.
-- **Key File:** `02-Onyx-Business-Case/onyx_business_case.pdf`
+- **Key File:** `02-Onyx_challenge_jan2026/business case Onyx ver.Eng`
 
 ### 3. 💾 MMIT Curriculum Analysis
 **Tools:** SQL (MySQL)
 - Designed a relational database for university curriculum planning.
 - Used SQL for prerequisite checks and degree footprint analysis.
-- **Key File:** `03-MMIT-Curriculum-SQL/curriculum_analysis.sql`
+- **Key File:** `03-MMIT_THAI_65_ver_mixcourse_forBA.sql`
 
 ### 4. 📑 System Analysis & Financial Integration
 **Tools:** Software Requirements Specification,Figma(Prototype), Agile
 - Developed a full Software Requirements Specification (SRS) for a financial accounting mobile app.
-- **Key File:** `04-System-Analysis-Finance/srs_document.pdf`
+- **Key File:** `04-Report SA,FI,MMIT_THAI_65_ver_mixcourse_forBA.pdf`
 - link Figma:https://www.figma.com/proto/DMt4KxjT3zxKKpUKn7CoB8/Untitled?node-id=2-76&t=Yv9bHSuq20EGY1sk-1&fbclid=IwY2xjawP-ODFleHRuA2FlbQIxMABicmlkETJ6dVZlMHA4STd3SHhZSDNYc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHtnkc0s8nSY4ZlYnKzpneyhKZYrI21G8Xe1tdhpLYNMU54WHuYGqvnASVNNE_aem_SHM1z9CZfLxdmWdr9KAYKg&starting-point-node-id=2%3A76
 
 ### 5. ⚙️ Manufacturing Efficiency & Failure Analysis
